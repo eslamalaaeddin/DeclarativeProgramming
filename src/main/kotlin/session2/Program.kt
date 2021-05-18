@@ -1,4 +1,4 @@
-package session_two
+package session2
 
 fun main() {
     val numbers = listOf(7, 4, 5, 6, 3, 8, 10)

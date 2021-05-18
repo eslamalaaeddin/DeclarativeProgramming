@@ -1,4 +1,4 @@
-package session_one
+package session1
 
 fun main() {
     val hello = Hello(0,0)
