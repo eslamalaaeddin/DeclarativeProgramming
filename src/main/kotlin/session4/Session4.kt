@@ -11,7 +11,7 @@ val calcB: (Order) -> Double = { order: Order -> 20.0 }
 val isCQualified: (Order) -> Boolean = { order: Order -> true }
 val calcC: (Order) -> Double = { order: Order -> 30.0 }
 
-//If we want to add a new rule and add tho
+//If we want to add a new rule and add a new pair containing them to rules list
 //val isDQualified: (Order) -> Boolean = { order: Order -> true }
 //val calcD: (Order) -> Double = { order: Order -> 3=40.0 }
 
