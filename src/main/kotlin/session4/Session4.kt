@@ -12,8 +12,8 @@ val isCQualified: (Order) -> Boolean = { order: Order -> true }
 val calcC: (Order) -> Double = { order: Order -> 30.0 }
 
 //If we want to add a new rule and add a new pair containing them to rules list
-//val isDQualified: (Order) -> Boolean = { order: Order -> true }
-//val calcD: (Order) -> Double = { order: Order -> 3=40.0 }
+//val isDQualified: (session3.Order) -> Boolean = { order: session3.Order -> true }
+//val calcD: (session3.Order) -> Double = { order: session3.Order -> 3=40.0 }
 
 fun main() {
 
